@@ -1,0 +1,12 @@
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\bin\Debug\net8.0\StorageHub.ServiceLibrary.deps.json
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\bin\Debug\net8.0\StorageHub.ServiceLibrary.dll
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\bin\Debug\net8.0\StorageHub.ServiceLibrary.pdb
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\obj\Debug\net8.0\StorageHub.ServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\obj\Debug\net8.0\StorageHub.ServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\obj\Debug\net8.0\StorageHub.ServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\obj\Debug\net8.0\StorageHub.ServiceLibrary.AssemblyInfo.cs
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\obj\Debug\net8.0\StorageHub.ServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\obj\Debug\net8.0\StorageHub.ServiceLibrary.dll
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\obj\Debug\net8.0\refint\StorageHub.ServiceLibrary.dll
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\obj\Debug\net8.0\StorageHub.ServiceLibrary.pdb
+C:\Users\hendr\Coding\Visual Studio\StorageHub\src\Storage.ServiceLibrary\obj\Debug\net8.0\ref\StorageHub.ServiceLibrary.dll

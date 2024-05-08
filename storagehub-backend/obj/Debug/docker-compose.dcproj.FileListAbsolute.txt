@@ -1,0 +1,1 @@
+C:\Users\hendr\Coding\Visual Studio\StorageHub\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

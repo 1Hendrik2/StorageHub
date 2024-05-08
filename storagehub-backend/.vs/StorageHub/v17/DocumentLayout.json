@@ -1,0 +1,737 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storage.servicelibrary\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|solutionrelative:src\\storage.servicelibrary\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storage.servicelibrary\\entities\\storageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|solutionrelative:src\\storage.servicelibrary\\entities\\storageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\dto\\updatepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\dto\\updatepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storage.servicelibrary\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|solutionrelative:src\\storage.servicelibrary\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\dto\\searchstoragesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\dto\\searchstoragesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B8E77B-7AE7-459C-BAFE-A2D15EBEF7CB}|docker-compose.dcproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20B8E77B-7AE7-459C-BAFE-A2D15EBEF7CB}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storage.servicelibrary\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|solutionrelative:src\\storage.servicelibrary\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\dto\\createstoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\dto\\createstoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storage.servicelibrary\\migrations\\20240506012632_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|solutionrelative:src\\storage.servicelibrary\\migrations\\20240506012632_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\dto\\storagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\dto\\storagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\dto\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\dto\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storage.servicelibrary\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|solutionrelative:src\\storage.servicelibrary\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505235259_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240505235259_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505191806_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240505191806_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storage.servicelibrary\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|solutionrelative:src\\storage.servicelibrary\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505152812_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240505152812_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505144102_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240505144102_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storagehub.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1FF69B8-BAF3-4B6D-B525-91D160A134C3}|src\\StorageHub.Api\\StorageHub.Api.csproj|solutionrelative:src\\storagehub.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B8E77B-7AE7-459C-BAFE-A2D15EBEF7CB}|docker-compose.dcproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20B8E77B-7AE7-459C-BAFE-A2D15EBEF7CB}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B8E77B-7AE7-459C-BAFE-A2D15EBEF7CB}|docker-compose.dcproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20B8E77B-7AE7-459C-BAFE-A2D15EBEF7CB}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B8E77B-7AE7-459C-BAFE-A2D15EBEF7CB}|docker-compose.dcproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20B8E77B-7AE7-459C-BAFE-A2D15EBEF7CB}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240504112714_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240504112714_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240503211058_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240503211058_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240503114638_SeedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240503114638_SeedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240503102535_SeedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240503102535_SeedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\src\\storage.servicelibrary\\extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5D21B-9C14-46A4-9CE3-04D700422653}|src\\Storage.ServiceLibrary\\StorageHub.ServiceLibrary.csproj|solutionrelative:src\\storage.servicelibrary\\extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240502093223_SeedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240502093223_SeedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240502031504_SeedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240502031504_SeedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240502010941_SeedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240502010941_SeedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240501222033_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240501222033_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240501213019_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240501213019_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240501121721_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240501121721_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240429200137_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240429200137_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7858C-8129-4947-9086-006B185CFB03}|tests\\Storage.ServiceLibrary.Tests\\Storage.ServiceLibrary.Tests.csproj|c:\\users\\hendr\\coding\\visual studio\\storagehub\\tests\\storage.servicelibrary.tests\\repositories\\storagerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7858C-8129-4947-9086-006B185CFB03}|tests\\Storage.ServiceLibrary.Tests\\Storage.ServiceLibrary.Tests.csproj|solutionrelative:tests\\storage.servicelibrary.tests\\repositories\\storagerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240429162831_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Storage.ServiceLibrary\\Migrations\\20240429162831_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchStoragesDto.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\SearchStoragesDto.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Dto\\SearchStoragesDto.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\SearchStoragesDto.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Dto\\SearchStoragesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:30:27.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StorageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Repositories\\StorageRepository.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Repositories\\StorageRepository.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Repositories\\StorageRepository.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Repositories\\StorageRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA5wD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:32:32.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAkwC8BAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:42:01.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Program.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwEEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:20:12.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdatePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\UpdatePasswordDto.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Dto\\UpdatePasswordDto.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\UpdatePasswordDto.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Dto\\UpdatePasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:32:37.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Controllers\\StorageController.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Controllers\\StorageController.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAuwMcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:34:03.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:00:34.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Helper\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Helper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:45:32.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StorageEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Entities\\StorageEntity.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Entities\\StorageEntity.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Entities\\StorageEntity.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Entities\\StorageEntity.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:07:28.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-06T22:54:13.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Service\\TokenService.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Service\\TokenService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:08:00.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\StorageHub.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T20:28:02.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240506012632_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240506012632_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240506012632_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240506012632_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240506012632_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:26:33.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateStorageDto.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\CreateStorageDto.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Dto\\CreateStorageDto.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\CreateStorageDto.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Dto\\CreateStorageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:35:05.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StorageDto.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\StorageDto.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Dto\\StorageDto.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\StorageDto.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Dto\\StorageDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:42:06.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Seed.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Seed.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Seed.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Seed.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:22:36.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Dto\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\CreateUserDto.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Dto\\CreateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:58:59.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:39:04.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NewUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\NewUserDto.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Dto\\NewUserDto.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\NewUserDto.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Dto\\NewUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:24:56.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\Dto\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\Dto\\UpdateUserDto.cs",
+              "RelativeToolTip": "src\\StorageHub.Api\\Dto\\UpdateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:21:18.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Data\\DataContext.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:12:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240505235259_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505235259_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240505235259_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505235259_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240505235259_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:52:59.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:14:05.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240505191806_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505191806_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240505191806_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505191806_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240505191806_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:18:06.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240505144102_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505144102_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240505144102_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505144102_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240505144102_InitialCreate.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:41:03.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240505152812_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505152812_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240505152812_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240505152812_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240505152812_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:28:12.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\appsettings.json",
+              "RelativeToolTip": "src\\StorageHub.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T16:53:06.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-04T16:06:09.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\StorageHub.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\StorageHub.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\StorageHub.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T19:33:11.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-04T15:00:58.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T22:13:55.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240504112714_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240504112714_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240504112714_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240504112714_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240504112714_InitialCreate.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:27:14.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240503211058_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240503211058_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240503211058_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240503211058_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240503211058_InitialCreate.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:10:59.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240503114638_SeedRole.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240503114638_SeedRole.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240503114638_SeedRole.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240503114638_SeedRole.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240503114638_SeedRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:46:38.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240503102535_SeedRole.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240503102535_SeedRole.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240503102535_SeedRole.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240503102535_SeedRole.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240503102535_SeedRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:25:36.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ClaimsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Extensions\\ClaimsExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Extensions\\ClaimsExtensions.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Extensions\\ClaimsExtensions.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Extensions\\ClaimsExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:24:43.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240502093223_SeedRole.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240502093223_SeedRole.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240502093223_SeedRole.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240502093223_SeedRole.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240502093223_SeedRole.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:32:23.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240502031504_SeedRole.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240502031504_SeedRole.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240502031504_SeedRole.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240502031504_SeedRole.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240502031504_SeedRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:15:05.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240502010941_SeedRole.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240502010941_SeedRole.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240502010941_SeedRole.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240502010941_SeedRole.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240502010941_SeedRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:09:41.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240501222033_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240501222033_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240501222033_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240501222033_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240501222033_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:20:34.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240501213019_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240501213019_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240501213019_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240501213019_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240501213019_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:30:19.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240501121721_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240501121721_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240501121721_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240501121721_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240501121721_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:17:21.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StorageRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\tests\\Storage.ServiceLibrary.Tests\\Repositories\\StorageRepositoryTests.cs",
+              "RelativeDocumentMoniker": "tests\\Storage.ServiceLibrary.Tests\\Repositories\\StorageRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\tests\\Storage.ServiceLibrary.Tests\\Repositories\\StorageRepositoryTests.cs",
+              "RelativeToolTip": "tests\\Storage.ServiceLibrary.Tests\\Repositories\\StorageRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:45:44.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240429200137_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240429200137_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240429200137_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240429200137_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240429200137_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:01:37.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240429162831_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240429162831_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Storage.ServiceLibrary\\Migrations\\20240429162831_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hendr\\Coding\\Visual Studio\\StorageHub\\src\\Storage.ServiceLibrary\\Migrations\\20240429162831_InitialCreate.cs",
+              "RelativeToolTip": "src\\Storage.ServiceLibrary\\Migrations\\20240429162831_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:28:31.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
